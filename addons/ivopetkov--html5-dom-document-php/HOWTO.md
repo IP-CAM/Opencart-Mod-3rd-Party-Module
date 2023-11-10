@@ -4,18 +4,18 @@
 REMEMBER! YOU ARE FULLY RESPONSIBLE FOR ANY DAMAGE TO YOUR STORE FILES OR LOSS OF DATA, SO START ALL THE CHANGES BY BACKING UP THE DB AND FILES!
 
 ## Install
-* Extensions → Installer → [Upload]: `html5domdocument.ocmod.zip`
-* Extensions → Extensions → Modules → #ocmod.space: html5domdocument → [Install]
+* Extensions → Installer → [Upload]: `3rd-party--ivopetkov--html5-dom-document-php.ocmod.zip`
+* Extensions → Extensions → Modules → #ocmod.space: 3rd-party|ivopetkov|html5-dom-document-php → [Install]
 
 ## Uninstall
-* Extensions → Extensions → Modules → #ocmod.space: html5domdocument → [Uninstall]
-* Extensions → Installer → Install History → `html5domdocument.ocmod.zip` → [Uninstall]
+* Extensions → Extensions → Modules → #ocmod.space: 3rd-party|ivopetkov|html5-dom-document-php → [Uninstall]
+* Extensions → Installer → Install History → `3rd-party--ivopetkov--html5-dom-document-php.ocmod.zip` → [Uninstall]
 
 ## Update
-* Extensions → Extensions → Modules → #ocmod.space: html5domdocument → [Uninstall]
-* Extensions → Installer → Install History → `html5domdocument.ocmod.zip` → [Uninstall]
-* Extensions → Installer → [Upload]: `html5domdocument.ocmod.zip`
-* Extensions → Extensions → Modules → #ocmod.space: html5domdocument → [Install]
+* Extensions → Extensions → Modules → #ocmod.space: 3rd-party|ivopetkov|html5-dom-document-php → [Uninstall]
+* Extensions → Installer → Install History → `3rd-party--ivopetkov--html5-dom-document-php.ocmod.zip` → [Uninstall]
+* Extensions → Installer → [Upload]: `3rd-party--ivopetkov--html5-dom-document-php.ocmod.zip`
+* Extensions → Extensions → Modules → #ocmod.space: 3rd-party|ivopetkov|html5-dom-document-php → [Install]
 
 ## Configure
-* Extensions → Extensions → Modules → #ocmod.space: html5domdocument → [Edit]
+* Extensions → Extensions → Modules → #ocmod.space: 3rd-party|ivopetkov|html5-dom-document-php → [Edit]

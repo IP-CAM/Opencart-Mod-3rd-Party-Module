@@ -2,7 +2,7 @@
 
 ## Description
 **voku/HtmlMin** is an OpenCart auxiliary module that installs the *HtmlMin* library - a HTML Compressor and Minifier for PHP by [voku](https://github.com/voku/HtmlMin).  
-Compatible with OpenCart 3.x versions and PHP version >= 8.1.0.
+Compatible with OpenCart 3.x versions and PHP version >= 7.2.5.
 
 ## How to use
 ```
